@@ -1,0 +1,5 @@
+var int fooBar = 2 + 2 - 4 + 3
+const string barFoo = 4 * (2+3)
+for fooBar to (forBar * 2) {
+  print fooBar + 9
+}
